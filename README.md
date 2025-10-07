@@ -133,7 +133,4 @@ Fork the repository, create a new branch, make your changes, and open a pull req
 
 This project is licensed under the MIT License.
 
----
-
-✅ Now you can copy everything above and paste it **directly** into a `README.md` file — no changes needed.
 
